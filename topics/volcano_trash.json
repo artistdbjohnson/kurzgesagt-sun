@@ -1,0 +1,12 @@
+{
+  "topic": "What if we dumped all our trash into volcanoes",
+  "length": 30,
+  "beats": [
+    {"t": 0, "event": "wide earth with volcanoes"},
+    {"t": 4, "event": "trash trucks dumping"},
+    {"t": 8, "event": "lava interaction"},
+    {"t": 12, "event": "consequences scale"},
+    {"t": 18, "event": "atmosphere impact"},
+    {"t": 24, "event": "title"}
+  ]
+}
